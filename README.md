@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Louis
-- Backend web dev
-- Stack -> Html5, Css,Vanilla JS, NodeJS and express framework,Php,MySql,Laravel and Java
-- 🌱 currently learning Golang
-- 💞️ looking to collaborate on web app projects, focusing on the backend
+- Backend heavy lifter
+- NodeJS/express framework,Php/Laravel,MySql,Mongodb and Java
+- 🌱 currently learning Kotlin
+- 💞️ looking to collaborate on web and Mobile app projects, focusing on the backend
 - 📫 How to reach me -> Lou.ikwuegbu@gmail.com
 
 <!---
