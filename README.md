@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis
 - Backend heavy lifter
-- NodeJS/express framework,Php/Laravel,MySql,Mongodb and Java
+- Tools of trade: NodeJS/express framework,Php/Laravel,MySql,Mongodb and Java
 - 🌱 currently learning Kotlin
 - 💞️ looking to collaborate on web and Mobile app projects, focusing on the backend
 - 📫 How to reach me -> Lou.ikwuegbu@gmail.com
