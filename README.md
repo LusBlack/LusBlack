@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Louis
-- Backend heavy lifter
+- Backend heavy lifter and laravel artisan
 - Tools of trade: NodeJS/express framework,Php/Laravel,MySql,Mongodb and Java
 - 🌱 currently learning Kotlin
 - 💞️ looking to collaborate on web and Mobile app projects, focusing on the backend
