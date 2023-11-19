@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Louis
-- Backend heavy lifter and laravel artisan
+- Howdy🤠 I’m Louis
+- Backend heavy lifter🏋🏽‍♂️ and laravel artisan🏂
 - Tools of trade: Laravel & Php,NodeJS & Express,Java, MySql and Mongodb
 - 🌱 currently learning Kotlin and React Native
-- 💞️ looking to collaborate on web and Mobile app projects, focusing on the backend
+- 🤝🏾looking to collaborate on web and Mobile app projects, focusing on the backend
 - 📫 How to reach me -> Lou.ikwuegbu@gmail.com
 
 <!---
