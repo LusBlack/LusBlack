@@ -1,6 +1,6 @@
 - Howdy🤠 I’m Louis
 - Backend heavy lifter🏋🏽‍♂️laravel artisan🏂 and Flutter mobile developer📱🐦 
-- Tools of trade(for work): Laravel/Php and Flutter
+- Tools of trade(for work): Laravel/Php, Golang and Flutter
 - 🤝🏾looking to collaborate on web and Mobile app projects 
 - 📫 How to reach me -> Lou.ikwuegbu@gmail.com
 
